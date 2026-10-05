@@ -1,0 +1,8 @@
+{
+  "name":"kiri2027-full-assistant",
+  "version":"2.0.0",
+  "private":true,
+  "description":"KIRI 2027 — personal life assistant PWA",
+  "scripts":{"start":"node backend/server.js"},
+  "engines":{"node":">=18"}
+}
